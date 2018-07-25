@@ -1,4 +1,4 @@
-# maven-watch
+# maven-watch [![Build Status](https://travis-ci.com/dkapil/maven-watch.svg?branch=master)](https://travis-ci.com/dkapil/maven-watch)
 A watcher for huge multi-module maven projects
 
 Multi-module maven projects can become unmanageable when they grow in size. Nested pom packaging and child projects existing in hierarchies makes it difficult to manage dependencies, plugins as well as sometimes these results into unexpected behaviour.
