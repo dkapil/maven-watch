@@ -5,11 +5,11 @@ import lombok.Data;
 @Data
 public class Project {
 
-    String id;
-    
-    String path;
-    
-    String parentId;
-    
-    SurefireConfiguration surefireConfiguration;
+	String id;
+
+	String path;
+
+	String parentId;
+
+	SurefireConfiguration surefireConfiguration;
 }
